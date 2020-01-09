@@ -1,16 +1,13 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Unity_AI_B1040401_LIN",
-"productVersion": "0.1",
-"dataUrl": "Web.data.unityweb",
-"wasmCodeUrl": "Web.wasm.code.unityweb",
-"wasmFrameworkUrl": "Web.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"productName": "Unity_AI2D_B1040403_Diana",
+"dataUrl": "web.data.unityweb",
+"wasmCodeUrl": "web.wasm.code.unityweb",
+"wasmFrameworkUrl": "web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
-"developmentBuild": false,
-"multithreading": false,
-"unityVersion": "2019.1.7f1"
+"cacheControl": {"default": "must-revalidate"}
 }
